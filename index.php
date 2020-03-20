@@ -33,9 +33,15 @@
 
         <p>Si requieres apoyo:</p>
         <ul>
-          <li>Materias y calificaciones: zzz@upp.edu.mx</li>
-          <li>Problemas para ingresar: adistancia@upp.edu.mx</li>
-          <li>Soporte técnico en general: sistemas@upp.edu.mx</li>
+          <li>Materias y calificaciones:
+            <ol>
+              <li>Lic. en Terapia Física: <a href="mailto:drachio@upp.edu.mx">drachio@upp.edu.mx</a></li>
+              <!--<li>Ingenierías: <a href="mailto:mtorres@upp.edu.mx">mtorres@upp.edu.mx</a></li>-->
+              <li><a href="mailto: divisiondeestudios@upp.edu.mx">divisiondeestudios@upp.edu.mx</a></li>
+            </ol>
+          </li>
+          <li>Problemas para ingresar: <a href="mailto:soporte_tecnico@upp.edu.mx">soporte_tecnico@upp.edu.mx</a></li>
+          <li>Soporte técnico en general: <a href="mailto:sistemas@upp.edu.mx">sistemas@upp.edu.mx</a></li>
         </ul>
 
       <div class="d-flex">
@@ -49,8 +55,9 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <a href="https://moodle1.upp.edu.mx/mdle/">
+            <a href="../mdle/">
               <img src="./mc/moodle_logo.png" alt="moodle plataform" class="img-fluid">
+              <!--<img src="./mc/moodle_logo_blue.jpg" alt="moodle plataform" class="img-fluid">-->
             </a>
           </div>
           <div class="col">
